@@ -40,7 +40,7 @@ const Todos = () => {
                 <div className="extra-style-1"></div>
                 <div className="extra-style-2"></div>
             </ul>
-            <Button onClick={newTodos} onClickCapture={validateInput} variant="light">Save</Button>
+            <Button onClick={newTodos} onClickCapture={validateInput} variant="light">Save</Button> 
         </div>
     )
 }
