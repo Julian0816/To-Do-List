@@ -1,5 +1,15 @@
-.Todo-container {
-  background-color: #f1f0de;
+ .Todo-container {
+  background-color: #ffffff;
+  width: 40rem;
+  height: 40rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.Todo-sub-container {
+  background-color: #dad9c6;
   width: 30rem;
   height: 30rem;
   display: flex;
@@ -12,7 +22,6 @@
   display: flex;
   flex-direction: column;
   align-items: left;
-  /* text-align: start; */
   text-align: left;
 }
 
@@ -52,4 +61,6 @@
 
 .li {
   color: grey;
-}
+} 
+
+
