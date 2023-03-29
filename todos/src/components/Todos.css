@@ -44,3 +44,12 @@
   text-align: start;
   color: #adada2;
 }
+
+.ul-list {
+  list-style-type: none;
+
+}
+
+.li {
+  color: grey;
+}
